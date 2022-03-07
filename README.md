@@ -1,6 +1,8 @@
 # Version 2.0 Revision 'Driving Style Analysis Using Primitive Driving Patterns With Bayesian Nonparametric Approaches'
 
-The program starts around the beginning of Chinese new year in 2022, which is around February. The first edition was finished in 2021.6.
+The first edition was finished in 2021.6.
+
+This program starts around the beginning of Chinese new year in 2022, which is around February. 
 
 Problem fixed:
 
@@ -11,6 +13,7 @@ Problem fixed:
 
    Unix likes system can not work for 100%. Mainly questions are about library 'pyhsmm'. Please check [the documentation](https://github.com/mattjj/pyhsmm)
 
+**Version 2.0 can be done in one week or even 24 hour if you are familiar with coding languages**
 ----------------------------------------------------------------
 
 ## Easy Introduction
